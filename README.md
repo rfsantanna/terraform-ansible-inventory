@@ -1,0 +1,2 @@
+# terraform-ansible-inventory
+Test
